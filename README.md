@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nassim-sadi
 - 👀 I’m interested in Desktop application , web develepement , android apps .
-- 🌱 I’m currently learning Java and Javafx
+- 🌱  currently learning Flutter 
 - 📫 How to reach me "nassim.sadi@hotmail.com"
 
 <!---
