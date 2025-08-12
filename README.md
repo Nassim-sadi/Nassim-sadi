@@ -1,32 +1,33 @@
 # 👋 Hi, I'm Nassim Sadi
 
-💻 **Full-Stack Developer** | 🖥 **Desktop Applications** | 📱 **Android & Flutter Enthusiast**
+💻 **Full-Stack Developer** | 🖥 **Desktop Applications** | 📱 **Web & Mobile Enthusiast**
 
 ---
 
 ### 🚀 About Me
-- 👀 Passionate about **desktop applications**, **web development**, and **mobile apps**.
-- 🌱 Currently learning **Flutter** to build beautiful cross-platform apps.
-- 🎯 Love turning ideas into functional, well-designed software.
-- 📂 Explore my portfolio: **[nassim-sadi.github.io/portfolio](https://nassim-sadi.github.io/portfolio/)**
+- 👀 Passionate about building **desktop applications**, **web platforms**, and **mobile apps**.
+- 📱 Currently experimenting with **Ionic** to create responsive, cross-platform mobile apps.
+- 🎯 Focused on delivering clean code, responsive designs, and seamless user experiences.
+- 🛠 Currently working on refining my **Laravel e-commerce platform** and portfolio projects.
+- 📂 Check out my portfolio: **[nassim-sadi.github.io/portfolio-react](https://nassim-sadi.github.io/portfolio-react)**
 
 ---
 
 ### 🛠 Tech Stack
 **Languages:**  
-`Java` `JavaScript` `TypeScript` `HTML` `CSS`  
+`PHP` · `JavaScript` · `TypeScript` · `HTML` · `CSS`  
 
 **Frameworks & Libraries:**  
-`React` `Vue` `Laravel` `Tailwind CSS`
+`React` · `Vue` · `Laravel` · `Tailwind CSS`  
 
 **Tools & Platforms:**  
-`Git` `GitHub` `VS Code` `Figma` `Linux ubuntu` 
+`Git` · `GitHub` · `VS Code` · `Figma` · `Linux Ubuntu`
 
 ---
 
 ### 📌 Featured Projects
-🔹 **[Portfolio Website](https://nassim-sadi.github.io/portfolio/)** – My personal portfolio built with React, Tailwind, and Vite.  
-🔹 **Laravel Ecommerce Site** – A responsive web app for ecommerce with admin panel.  
+🔹 **[Laravel E-commerce Site](https://github.com/Nassim-sadi/shop)** – A responsive e-commerce platform with an admin panel.  
+🔹 **[Portfolio Website](https://github.com/Nassim-sadi/portfolio-react)** – My personal portfolio built with React, Tailwind, and Vite.  
 
 ---
 
@@ -37,9 +38,9 @@
 ---
 
 ### 📫 Contact Me
-📧 Email: **[Contact Form in Portfolio](https://nassim-sadi.github.io/portfolio/#contact)**  
-💼 LinkedIn: *(Add if you have one)*  
+📧 Email: **[Contact Form in Portfolio](https://nassim-sadi.github.io/portfolio-react/#contact)**  
+💼 LinkedIn: [linkedin.com/in/nassim-sadi-22587b156](https://www.linkedin.com/in/nassim-sadi-22587b156/)  
 
 ---
 
-> ✨ _"Code is like humor. When you have to explain it, it’s bad."_ ✨
+> ✨ _"I aim for code that’s simple enough to explain without coffee."_ ✨
